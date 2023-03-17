@@ -29,6 +29,9 @@ body {
     font-family: 'Arial', sans-serif;
 }
 
+a { text-decoration: none; }
+
+
 .img-box {
     width: 100%;
     object-fit: contain;
